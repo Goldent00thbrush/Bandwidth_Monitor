@@ -4,7 +4,7 @@ A simple wi-fi bandwidth monitor app built in Python.
 ## Introduction
 The purpose of this project is to dive deeper into network interfaces and app building. The idea is building a simple real time bandwidth montior in form of a simple app like a small embedded device(which can only display it readings). It updates the UI every 5 mins.   
 ## The App
-
+![image](https://user-images.githubusercontent.com/44409654/119855037-dee79400-bf11-11eb-97c8-c29881840200.png)
 ## Technologies 
 -	Python 3.9.5
 -   psutils
